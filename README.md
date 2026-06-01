@@ -132,7 +132,7 @@ Kalman Filters are widely used in:
 
 ## Author
 
-**Elijah Boungoueres**
+**Fils Elie Boungoueres**
 M.Sc. Complex Systems Engineering — AM2AS
 University of Bordeaux
 
